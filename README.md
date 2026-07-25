@@ -41,6 +41,8 @@ npm run dev
 ```
 The web app will run at `http://localhost:5173`.
 
+This can also be used for local usage and google colab
+
 ## Features
 - **Synthetic Data Generation**: Creates realistic flight data for training.
 - **Random Forest Model**: Predicts turbulence risk based on wind shear, temperature gradient, humidity, and altitude.
